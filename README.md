@@ -33,7 +33,7 @@ complexidade com ênfase nos conteúdos vistos no módulo de Programação Dinâ
 
 Dificuldade: Difícil <br>
 Descrição do Problema:[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=problem-list-v2&envId=dynamic-programming)  <br>
-Solução Proposta:  
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Questoes_JuizOnline/blob/master/Distinct%20Subsequences/distinct_subsequences.cpp)  
 
 ![ ]()
 
@@ -41,7 +41,7 @@ Solução Proposta:
 
 Dificuldade: Média <br>
 Descrição do Problema: [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming) <br>
-Solução Proposta: 
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Questoes_JuizOnline/blob/master/Minimum%20Path%20Sum/minimum_path_sum.cpp)  
 
 ![ ]()
 
