@@ -22,25 +22,25 @@ complexidade com ênfase nos conteúdos vistos no módulo de Programação Dinâ
 
 | Nome                                                                                                                                        | Nível   |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| | |
-|     |  |
+| [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=problem-list-v2&envId=dynamic-programming)                                                 | Difícil |
+| [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming)     | Médio   |
 |      |    |
 
 
 ## Screenshots
 
-#### Exercício 01 - 
+#### Exercício 01 - Distinct Subsequences
 
-Dificuldade:  <br>
-Descrição do Problema:  <br>
+Dificuldade: Difícil <br>
+Descrição do Problema:[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=problem-list-v2&envId=dynamic-programming)  <br>
 Solução Proposta:  
 
 ![ ]()
 
-#### Exercício 02 -
+#### Exercício 02 - Minimum Path Sum
 
-Dificuldade: <br>
-Descrição do Problema: <br>
+Dificuldade: Média <br>
+Descrição do Problema: [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming) <br>
 Solução Proposta: 
 
 ![ ]()
