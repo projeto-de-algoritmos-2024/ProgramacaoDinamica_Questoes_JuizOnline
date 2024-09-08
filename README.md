@@ -32,10 +32,10 @@ complexidade com ênfase nos conteúdos vistos no módulo de Programação Dinâ
 #### Exercício 01 - Distinct Subsequences
 
 Dificuldade: Difícil <br>
-Descrição do Problema:[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=problem-list-v2&envId=dynamic-programming)  <br>
+Descrição do Problema: [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=problem-list-v2&envId=dynamic-programming)  <br>
 Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Questoes_JuizOnline/blob/master/Distinct%20Subsequences/distinct_subsequences.cpp)  
 
-![ ]()
+![Exercício_1](assets/distinctsub.png)
 
 #### Exercício 02 - Minimum Path Sum
 

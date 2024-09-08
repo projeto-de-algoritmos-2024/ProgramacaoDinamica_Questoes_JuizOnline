@@ -1,3 +1,9 @@
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
 class Solution {
  public:
   int numDistinct(string s, string t) { // estrutura obrigatoria do leetcode
@@ -14,3 +20,20 @@ class Solution {
     return dp[n];
   }
 };
+
+int main() {
+    Solution sol;
+    string s, t;
+
+  
+    cout << "Digite a string s: ";
+    cin >> s;
+    cout << "Digite a string t: ";
+    cin >> t;
+
+    
+    int result = sol.numDistinct(s, t);
+    cout << "O número de subsequências distintas é: " << result << endl;
+
+    return 0;
+}
