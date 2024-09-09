@@ -3,22 +3,23 @@ class Solution:
         lenString = len(string)
         lenPattern = len(pattern)
 
-        matchTable = [[False] * (lenPattern) for _ in range(lenString)]
+        matchTable = [[False] * (lenPattern + 1) for _ in range(lenString + 1)]
+        matchTable[0][0] = True
 
         def matches(i: int, j: int) -> bool:
             return j >= 0 and (pattern[j] == '.' or string[i] == pattern[j])
 
-        for j, char in range(pattern):
-            if char == '*' and matchTable[0][j]:
-                matchTable[0][j] = True
+        for j, char in enumerate(pattern):
+            if char == '*' and matchTable[0][j - 1]:
+                matchTable[0][j + 1] = True
 
         for i in range(lenString):
             for j in range(lenPattern):
                 if pattern[j] == '*':
-                    noRepeatMatch = matchTable[i][j]
-                    repeatMatch = matches(i, j) and matchTable[i][j]
-                    matchTable[i][j] = noRepeatMatch or repeatMatch
+                    noRepeatMatch = matchTable[i + 1][j - 1]  # índice mínimo de '*' é 1
+                    repeatMatch = matches(i, j - 1) and matchTable[i][j + 1]
+                    matchTable[i + 1][j + 1] = noRepeatMatch or repeatMatch
                 elif matches(i, j):
-                    matchTable[i][j] = matchTable[i][j]
+                    matchTable[i + 1][j + 1] = matchTable[i][j]
 
         return matchTable[lenString][lenPattern]
