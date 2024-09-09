@@ -24,7 +24,7 @@ complexidade com ênfase nos conteúdos vistos no módulo de Programação Dinâ
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/?envType=problem-list-v2&envId=dynamic-programming)                                                 | Difícil |
 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming)     | Médio   |
-|      |    |
+|  [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming)    |  Difícil  |
 
 
 ## Screenshots
@@ -43,7 +43,7 @@ Dificuldade: Média <br>
 Descrição do Problema: [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=problem-list-v2&envId=dynamic-programming) <br>
 Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Questoes_JuizOnline/blob/master/Minimum%20Path%20Sum/minimum_path_sum.cpp)  
 
-![ ]()
+![Exercício_2 ](assets/minimumpath.png)
 
 #### Exercício 03 - 
 
