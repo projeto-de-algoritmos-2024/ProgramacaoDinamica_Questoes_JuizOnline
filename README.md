@@ -45,11 +45,11 @@ Solução Proposta: [Código de Solução](https://github.com/projeto-de-algorit
 
 ![Exercício_2 ](assets/minimumpath.png)
 
-#### Exercício 03 - 
+#### Exercício 03 - Regular Expression Matching
 
 Dificuldade:  Difícil<br>
 Descrição do Problema: [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming) <br>
-Solução Proposta: [Código da Solução](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Questoes_JuizOnline)
+Solução Proposta: [Código da Solução](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Questoes_JuizOnline/blob/master/RegularExpressionMatching/regular_expression_matching.py)
 
 ![Resolução](/assets/regular_expression.png)
 
