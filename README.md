@@ -47,11 +47,11 @@ Solução Proposta: [Código de Solução](https://github.com/projeto-de-algorit
 
 #### Exercício 03 - 
 
-Dificuldade:  <br>
-Descrição do Problema: <br>
-Solução Proposta: 
+Dificuldade:  Difícil<br>
+Descrição do Problema: [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming) <br>
+Solução Proposta: [Código da Solução](https://github.com/projeto-de-algoritmos-2024/ProgramacaoDinamica_Questoes_JuizOnline)
 
-![ ]()
+![Resolução](/assets/regular_expression.png)
 
 ## Instalação
 
@@ -85,7 +85,7 @@ Certifique-se de estar no diretório correto em seu terminal para executar o pro
 
 ### Executar os exercícios em python
 
-Para executar o notebook localmente, siga os passos abaixo:
+Para executar os arquivos localmente, siga os passos abaixo:
 
 1. Clone o repositório para seu ambiente local
 
@@ -96,11 +96,7 @@ Para executar o notebook localmente, siga os passos abaixo:
 4. Execute o exercício 3:
 
     ```bash
-    python3 Maximum_Subarray/maximum_subarray.py
-   ```
-5. Execute o exercício 4:
-    ```bash
-    python3 Median_of_Two_Sorted_Arrays/median_of_two_sorted_arrays.py 
+    python3 RegularExpressionMatching/regular_expression_matching.py
    ```
 
 
